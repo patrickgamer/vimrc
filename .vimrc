@@ -23,6 +23,7 @@ Bundle 'L9'
 Bundle 'FuzzyFinder'
 Bundle 'groenewege/vim-less'
 Bundle 'scrooloose/syntastic'
+Bundle 'digitaltoad/vim-jade'
 " non github repos
 Bundle 'git://git.wincent.com/command-t.git'
 " ...
